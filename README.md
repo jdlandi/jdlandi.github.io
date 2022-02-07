@@ -1,1 +1,0 @@
-# jdlandi.github.io
