@@ -191,6 +191,9 @@ ngx-bootstrap/datepicker
 ngx-chips
 MIT
 
+ngx-cookie-service
+MIT
+
 rellax
 MIT
 The MIT License (MIT)
